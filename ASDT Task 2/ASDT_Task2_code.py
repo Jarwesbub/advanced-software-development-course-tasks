@@ -6,7 +6,6 @@
 
 import numpy as np
 import tkinter as tk
-from PIL import Image, ImageTk
 import threading
 import winsound as ws
 import time
