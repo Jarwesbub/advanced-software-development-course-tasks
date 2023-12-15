@@ -1,2 +1,4 @@
 # Ignore word files
-*.docx
+ASDT Task 1/*.docx
+ASDT Task 2/*.docx
+ASDT Task 3 (Final)/*.docx
